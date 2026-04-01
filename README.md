@@ -3,9 +3,9 @@
 
 > 9 lab programs covering hashing, trees, heaps, sorting, greedy, dynamic programming, backtracking, and branch & bound — implemented in C.
 
----
+--- GitHub repo
 
-## 📂 Repository Structure
+## https://github.com/anjiduda77-afk
 
 ```
 advanced-data-structures-and-algorithms/
